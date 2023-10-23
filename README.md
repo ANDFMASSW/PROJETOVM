@@ -1,5 +1,5 @@
 # PROJETOVM
 
-EQUIPE VM E ANDFMASSW
+Equipe VM e ANDFMASSW
 
 Professor André Massari
